@@ -4,44 +4,36 @@
         "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_text_cursor_material.xml"
     },
     {
-        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_switch_thumb_material.xml"
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/judy.jpg",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/src/main/res/drawable/judy.jpg"
+    },
+    {
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/logo2.png",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/src/main/res/drawable/logo2.png"
     },
     {
         "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
         "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
         "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/background1.jpg",
-        "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/src/main/res/drawable/background1.jpg"
-    },
-    {
         "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/logo2.png",
         "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/src/main/res/drawable/logo2.png"
     },
     {
-        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/alex.jpg",
-        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/src/main/res/drawable/alex.jpg"
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/ib.png",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/src/main/res/drawable/ib.png"
     },
     {
         "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/john.jpg",
         "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/src/main/res/drawable/john.jpg"
-    },
-    {
-        "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
-        "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_dark.xml"
     },
     {
         "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
@@ -56,28 +48,36 @@
         "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/src/main/res/drawable/box.png"
     },
     {
-        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/ib.png",
-        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/src/main/res/drawable/ib.png"
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_textfield_search_material.xml"
     },
     {
-        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_text_cursor_material.xml"
     },
     {
-        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/sam.jpg",
-        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/src/main/res/drawable/sam.jpg"
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/alex.jpg",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/src/main/res/drawable/alex.jpg"
     },
     {
-        "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/background.png",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/src/main/res/drawable/background.png"
     },
     {
-        "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_ratingbar_full_material.xml"
     },
     {
         "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
@@ -90,10 +90,6 @@
     {
         "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/background.png",
         "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/src/main/res/drawable/background.png"
-    },
-    {
-        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/user.png",
-        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/src/main/res/drawable/user.png"
     },
     {
         "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
@@ -116,8 +112,216 @@
         "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/src/main/res/drawable/ib.png"
     },
     {
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/logo.png",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/mobile.png",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/src/main/res/drawable/mobile.png"
+    },
+    {
+        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/box.png",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/src/main/res/drawable/box.png"
+    },
+    {
+        "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/layer.xml",
+        "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/src/main/res/drawable/layer.xml"
+    },
+    {
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/logo2.png",
+        "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/src/main/res/drawable/logo2.png"
+    },
+    {
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/layer.xml",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/src/main/res/drawable/layer.xml"
+    },
+    {
+        "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/password.png",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/src/main/res/drawable/password.png"
+    },
+    {
+        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/mobile.png",
+        "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/src/main/res/drawable/mobile.png"
+    },
+    {
+        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/background1.jpg",
+        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/src/main/res/drawable/background1.jpg"
+    },
+    {
+        "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/mobile.png",
+        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/src/main/res/drawable/mobile.png"
+    },
+    {
+        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/jeff.jpg",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/src/main/res/drawable/jeff.jpg"
+    },
+    {
+        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/background1.jpg",
+        "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/src/main/res/drawable/background1.jpg"
+    },
+    {
+        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/alex.jpg",
+        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/src/main/res/drawable/alex.jpg"
+    },
+    {
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/background1.jpg",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/src/main/res/drawable/background1.jpg"
+    },
+    {
+        "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/ib.png",
+        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/src/main/res/drawable/ib.png"
+    },
+    {
+        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/sam.jpg",
+        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/src/main/res/drawable/sam.jpg"
+    },
+    {
+        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/user.png",
+        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/src/main/res/drawable/user.png"
+    },
+    {
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
         "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/layer.xml",
         "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/src/main/res/drawable/layer.xml"
+    },
+    {
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/sam.jpg",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/src/main/res/drawable/sam.jpg"
     },
     {
         "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
@@ -132,60 +336,60 @@
         "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/src/main/res/drawable/vegatables.jpg"
     },
     {
-        "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/reid.jpg",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/src/main/res/drawable/reid.jpg"
     },
     {
         "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/password.png",
         "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/src/main/res/drawable/password.png"
     },
     {
-        "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/john.jpg",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/src/main/res/drawable/john.jpg"
     },
     {
         "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
         "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/vegatables.jpg",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/src/main/res/drawable/vegatables.jpg"
+    },
+    {
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/border.xml",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/src/main/res/drawable/border.xml"
+    },
+    {
         "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/password.png",
         "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/src/main/res/drawable/password.png"
     },
     {
-        "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_textfield_search_material.xml"
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/email.png",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/src/main/res/drawable/email.png"
     },
     {
-        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_textfield_search_material.xml"
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_edit_text_material.xml"
     },
     {
         "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
         "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_spinner_textfield_background_material.xml"
-    },
-    {
         "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/logo.png",
         "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/src/main/res/drawable/logo.png"
-    },
-    {
-        "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
-        "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_ratingbar_full_material.xml"
-    },
-    {
-        "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_colored_material.xml"
     },
     {
         "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
         "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/ken.jpg",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/src/main/res/drawable/ken.jpg"
     },
     {
         "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/farmer.png",
@@ -200,8 +404,8 @@
         "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/src/main/res/drawable/reid.jpg"
     },
     {
-        "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/layer.xml",
-        "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/src/main/res/drawable/layer.xml"
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/user.png",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/src/main/res/drawable/user.png"
     },
     {
         "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
@@ -220,8 +424,8 @@
         "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_tab_indicator_material.xml"
     },
     {
         "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
@@ -240,12 +444,8 @@
         "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/logo2.png",
-        "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/src/main/res/drawable/logo2.png"
-    },
-    {
-        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
-        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_dark.xml"
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
@@ -256,12 +456,8 @@
         "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/src/main/res/drawable/box.png"
     },
     {
-        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
-        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_light.xml"
-    },
-    {
-        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_edit_text_material.xml"
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_dark.xml"
     },
     {
         "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/user.png",
@@ -288,6 +484,10 @@
         "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_radio_material.xml"
     },
     {
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/farmer.png",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/src/main/res/drawable/farmer.png"
+    },
+    {
         "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
         "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_light.xml"
     },
@@ -296,31 +496,11 @@
         "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_edit_text_material.xml"
     },
     {
-        "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_check_material.xml"
-    },
-    {
-        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_track_material.xml"
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/border.xml",
         "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/src/main/res/drawable/border.xml"
-    },
-    {
-        "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/mobile.png",
-        "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/src/main/res/drawable/mobile.png"
-    },
-    {
-        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/background1.jpg",
-        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/src/main/res/drawable/background1.jpg"
-    },
-    {
-        "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_switch_thumb_material.xml"
-    },
-    {
-        "merged": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/drawable/mobile.png",
-        "source": "/Users/administorzz/Downloads/MobileAppsFinalProject-master/app/src/main/res/drawable/mobile.png"
     }
 ]

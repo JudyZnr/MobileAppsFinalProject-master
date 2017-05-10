@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/administorzz/Desktop/MobileAppsFinalProject-master/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
         "source": "/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
