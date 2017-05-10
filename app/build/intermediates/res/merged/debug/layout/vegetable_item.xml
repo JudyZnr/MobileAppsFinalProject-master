@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/vegePhoto"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="50dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/vegatables"/>
+
+    <TextView
+        android:id="@+id/vegeName"
+        android:layout_width="200dp"
+        android:layout_height="20dp"
+        android:layout_alignTop="@+id/vegePhoto"
+        android:layout_marginLeft="29dp"
+        android:layout_marginStart="29dp"
+        android:layout_marginTop="16dp"
+        android:layout_toEndOf="@+id/vegePhoto"
+        android:layout_toRightOf="@+id/vegePhoto"
+        android:text="vegeName"
+        android:textSize="20dp"/>
+</RelativeLayout>
